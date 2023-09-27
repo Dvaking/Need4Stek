@@ -1,4 +1,4 @@
-# Need4Stek
+# 🏎️ • Need4Steck
 
 Epitech's first AI project
 
