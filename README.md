@@ -6,7 +6,6 @@ Epitech's first AI project
 
 1. [General Info](#general-info)
 2. [Technologies](#technologies)
-3. [Overview](#Overview)
 
 ## General Info
 
